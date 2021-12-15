@@ -1,0 +1,6 @@
+name: CrazyItems
+version: '${project.version}'
+main: me.shadowdev.crazyitems.CrazyItems
+api-version: 1.18
+authors: [ Prof_Shadow ]
+description: Tons of cool and custom items to play with.
