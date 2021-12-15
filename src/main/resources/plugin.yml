@@ -1,6 +1,12 @@
 name: CrazyItems
 version: '${project.version}'
 main: me.shadowdev.crazyitems.CrazyItems
-api-version: 1.18
+api-version: 1.17
 authors: [ Prof_Shadow ]
 description: Tons of cool and custom items to play with.
+commands:
+  itemedit:
+    aliases: ie
+    description: Helps edit items in-game
+    permission: CrazyItems.itemedit
+
